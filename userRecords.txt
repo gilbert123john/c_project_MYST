@@ -1,0 +1,4 @@
+Athul123|Athul P|24|Kerala|M|Bsc.CS|Java,C++,C|Friend
+Gilbert123|Gilbert|25|Kochery House,Mundamveli|M|Bsc.CS|Java|Kungfu
+ROSHAN123|ROSHAN|22|ASSET HOMES,KOCHI.|M|BSC.MATHS|PHP,PYTHON|SKILLS
+Sini63|Sini Thomas|40|Thoppumpady,Kochi.|F|Deploma|Php|Communication
